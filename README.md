@@ -20,12 +20,12 @@ Checkout releases ;)
 
 ## Screenshots
 
-<img src="images/screenshot_1.jpg?raw=true" alt="Screenshot 1" height="100%"> 
-<img src="images/screenshot_2.jpg?raw=true" alt="Screenshot 2" height="100%"> 
-<img src="images/screenshot_3.jpg?raw=true" alt="Screenshot 3" height="100%">
-<img src="images/screenshot_4.jpg?raw=true" alt="Screenshot 4" height="100%">
-<img src="images/screenshot_5.jpg?raw=true" alt="Screenshot 5" height="100%">
-<img src="images/screenshot_6.jpg?raw=true" alt="Screenshot 5" height="100%">
+<img src="images/screenshot_1.jpg?raw=true" alt="Screenshot 1" height="600"> 
+<img src="images/screenshot_2.jpg?raw=true" alt="Screenshot 2" height="600"> 
+<img src="images/screenshot_3.jpg?raw=true" alt="Screenshot 3" height="600">
+<img src="images/screenshot_4.jpg?raw=true" alt="Screenshot 4" height="600">
+<img src="images/screenshot_5.jpg?raw=true" alt="Screenshot 5" height="600">
+<img src="images/screenshot_6.jpg?raw=true" alt="Screenshot 5" height="600">
 
 ---
 
